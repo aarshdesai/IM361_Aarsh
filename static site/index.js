@@ -1,5 +1,5 @@
-const myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+
+
 const express = require('express'); 
 const app = express();
 

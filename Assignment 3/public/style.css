@@ -90,3 +90,14 @@ font-family: sans-serif;
  {
  	height: 50px;
  }
+
+ #banner .btn-primary
+{
+	box-shadow: none;
+	
+	margin: 30px;
+	padding: 8px 25px;
+	border: none;
+	border-radius: 20px;
+	background-color: rgb(138, 63, 252);
+}
